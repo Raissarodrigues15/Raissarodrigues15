@@ -4,7 +4,7 @@
 
 <p align="center">Eu ❤️ gosto de usar tecnologia. <br><br> <strong>apaixonada por descobrir coisas novas</strong> e usá-las para criar soluções e projetos de alta qualidade. </p>&nbsp;
 
-
+<div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Raissarodrigues15&theme=radical&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats-git-main-Raissarodrigues15.vercel.app/api/top-langs/?username=Raissarodrigues15&show_icons=true&theme=radical&layout=compact" />
  </div>
@@ -20,7 +20,7 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 
-<img src="https://raw.githubusercontent.com/RaissaRodrigues/RaissaRodrigues/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/RaissaRodrigues15/RaissaRodrigues15/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Databases:
 ![HTML](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
