@@ -9,14 +9,11 @@
  &nbsp;
  &nbsp;
 
-
-
-## My Skills
-
-#### Main Stack:
+#### Languages:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-
+![CSS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 
 #### Databases:
 ![HTML](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
@@ -24,8 +21,7 @@
 #### Design:
 ![HTML](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 
-#### Workstation Tools:
-
+#### IDE:
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 
 &nbsp;
