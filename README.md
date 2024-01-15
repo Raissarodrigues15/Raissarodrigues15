@@ -1,6 +1,4 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/Raissarodrigues15/Raissarodrigues15/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
-&nbsp;&nbsp;&nbsp;
-
+<p align="center">Hi! I'm Raissa. <br><br> <strong>;
 <p align="center">Eu ❤️ gosto de usar tecnologia. <br><br> <strong>Apaixonada por descobrir coisas novas</strong> e usá-las para criar soluções e projetos de alta qualidade. </p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
