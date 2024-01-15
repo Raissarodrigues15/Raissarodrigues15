@@ -4,7 +4,7 @@
 
 <p align="center">Eu ❤️ gosto de usar tecnologia. <br><br> <strong>apaixonada por descobrir coisas novas</strong> e usá-las para criar soluções e projetos de alta qualidade. </p>&nbsp;
 
-<div  align="center" style="margin-bottom:100px">
+
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Raissarodrigues15&theme=radical&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats-git-main-Raissarodrigues15.vercel.app/api/top-langs/?username=Raissarodrigues15&show_icons=true&theme=radical&layout=compact" />
  </div>
@@ -43,6 +43,6 @@
 <a href="https://www.linkedin.com/in/raissa-rodrigues-9196ab1b0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
  
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
 
 
