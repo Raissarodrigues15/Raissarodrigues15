@@ -1,5 +1,5 @@
-<p align="center">Oi!<br><br> <strong> Eu sou Raissa. </strong>
-<p align="center">❤️ Gosto de usar tecnologia. <br><br> <strong>Apaixonada por descobrir coisas novas</strong> e usá-las para criar soluções e projetos de alta qualidade. </p>&nbsp;
+<p align="center">Hi!<br><br> <strong> my name is Raissa. </strong>
+<p align="center">❤️ I develop projects using various technologies. <br><br> <strong>Passionate about discovering new things</strong> And using them to create high-quality solutions and projects. </p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Raissarodrigues15&theme=radical&mode=weekly" />
@@ -9,11 +9,13 @@
  &nbsp;
  &nbsp;
 
-#### Linguages:
+#### Languages:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![Python](https://www.python.org/static/img/python-logo.png)
+![Java](https://www.oracle.com/a/ocom/img/cb71-java-logo.png)
 
 #### Databases:
 ![HTML](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
