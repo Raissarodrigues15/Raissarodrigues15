@@ -1,4 +1,4 @@
-<p align="center">Hi!<br><br> <strong> my name is Raissa. </strong>
+<p align="center">Hi!<br><br> <strong> My name is Raissa. </strong>
 <p align="center">❤️ I develop projects using various technologies. <br><br> <strong>Passionate about discovering new things</strong> And using them to create high-quality solutions and projects. </p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
