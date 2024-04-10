@@ -15,7 +15,7 @@
 ![CSS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![Python](https://www.python.org/static/img/python-logo.png)
-![Java](https://www.oracle.com/a/ocom/img/cb71-java-logo.png)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 #### Databases:
 ![HTML](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
